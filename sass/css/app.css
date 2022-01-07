@@ -30,7 +30,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  background: url(/img/background.jpg);
+  background: url(../img/background.jpg);
   background-attachment: fixed;
   background-position: center;
   overflow: hidden;
